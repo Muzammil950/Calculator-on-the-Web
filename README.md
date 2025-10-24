@@ -30,7 +30,7 @@ Here’s how the app looks when running:
 
 ![Flask Calculator Screenshot](8c00b42a-113a-4d0e-81aa-67627372de03.png)
                                 👨‍💻
-![Flask Calculator Screenshot](8c00b42a-113a-4d0e-81aa-67627372de03.png)
+![Flask Calculator Screenshot](https://github.com/Muzammil950/Calculator-on-the-Web/blob/79f17217cceec4c6272b40462355fbce878661e0/flask%20calci001.png)
 ---
 
 🧠 Learning Outcome
